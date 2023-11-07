@@ -35,9 +35,6 @@ The Poisson distribution is the discrete probability distribution of the number 
 
 
 
-
-
-
 ```
 
 
@@ -99,9 +96,11 @@ else:
 ```
 
 
+```
 
 
 
+```
 
 
 
