@@ -101,8 +101,20 @@ else:
 
 
 
+```
 
 
+
+
+
+
+
+
+
+
+
+
+```
 # Output : 
 ![image](https://github.com/soundariyan18/Poisson_distribution/assets/119393307/9b5ba929-26c6-4072-bb1f-dd0e0220bfe9)
 
