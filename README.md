@@ -1,6 +1,6 @@
 DATE: 15.09.23
 
-# FITTING POISSON DISTRIBUTION
+# EX.2- FITTING POISSON DISTRIBUTION
 # Aim : 
 
 To fit poisson distribution for the arrival of objects per minute from the feeder
@@ -105,9 +105,6 @@ else:
 
 
 ```
-
-
-
 
 
 
